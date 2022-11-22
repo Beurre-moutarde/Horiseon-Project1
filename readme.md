@@ -15,7 +15,7 @@ Select the navigation links at the top of the page (Search Engine Optimization, 
 
 ## License
 
-MIT License
+NO License
 
 Copyright (c) 2022 Christopher Lebreton
 
